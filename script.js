@@ -1,5 +1,6 @@
 
 const URL = "https://sjzxkluuakrwiraplzyf.supabase.co";
+
 const KEY = "sb_publishable_k7qTjmFn6lgEWpxUXgLL3A_M2T8ZlJX";
 
 
